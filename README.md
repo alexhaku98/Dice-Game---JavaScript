@@ -1,2 +1,2 @@
 # Dice-Game---JavaScript
-<img width="2558" height="1264" alt="preview" src="https://github.com/user-attachments/assets/14d37397-a4cd-44ec-b5e9-ce5783d63308" />
+<img width="2558" height="1264" alt="preview" src="[https://github.com/user-attachments/assets/14d37397-a4cd-44ec-b5e9-ce5783d63308](https://github.com/alexhaku98/Dice-Game---JavaScript/blob/main/preivew.png)" />
